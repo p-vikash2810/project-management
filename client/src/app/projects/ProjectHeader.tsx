@@ -3,7 +3,6 @@ import Header from "@/components/Header";
 import {
   Clock,
   Filter,
-  Grid,
   Grid3X3,
   List,
   PlusSquare,
